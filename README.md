@@ -8,7 +8,9 @@
 
 🖥️ I’m working on my startup, https://www.applyto.jobs, a web-app that maximizing users' chances of securing a job through tailoring a resume and cover letter to each position. If you're interested in interning or collaborating, feel free to reach out!
 
-📧 If you're looking to get in touch, you can contact me through my site, https://shanayamalik.github.io/portfolio/.
+🧘‍♀️ In my free time, you might find me walking in nature, attending a San Jose Sharks game, or watching reality shows on Netflix. 
+
+📧 If you're looking to get in touch, you can contact me at simalik@ucsc.edu, or through my site, https://shanayamalik.github.io/portfolio/.
 
 <!---
 shanayamalik/shanayamalik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
