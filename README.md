@@ -8,7 +8,7 @@
 
 🖥️ I’m working on my startup, https://www.applyto.jobs, a web-app that maximizing users' chances of securing a job through using LLMs to tailor a resume and cover letter to each position. If you're interested in interning or collaborating, feel free to reach out!
 
-🧘‍♀️ In my free time, you might find me walking in nature, attending a San Jose Sharks game, or watching reality shows on Netflix. 
+🧘‍♀️ In my free time, I like going out, attending San Jose Sharks games, or watching shows on Netflix. 
 
 📧 If you're looking to get in touch, you can contact me at simalik@ucsc.edu, or through my site, https://shanayamalik.github.io/portfolio/.
 
