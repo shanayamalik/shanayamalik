@@ -6,7 +6,7 @@
 
 ⏳ I've volunteered 1675+ hours, earning awards from President Biden, the California State Assembly, and the Milpitas Board of Education.
 
-🖥️ I’m working on my project, https://www.applyto.jobs, a web-app that maximizing users' chances of securing a job through using LLMs to tailor a resume and cover letter to each position. If you're interested in interning or collaborating, feel free to reach out!
+🖥️ I’m working on my project, https://www.applyto.jobs, a web-app that maximizing users' chances of securing a job through using LLMs to tailor a resume and cover letter to each position. If you're interested in collaborating, feel free to reach out!
 
 🧘‍♀️ In my free time, I like going out, attending San Jose Sharks games, or watching shows on Netflix. 
 
