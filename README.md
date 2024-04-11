@@ -10,7 +10,7 @@
 
 🧘‍♀️ In my free time, I like spending time in nature, attending San Jose Sharks games, or watching shows on Netflix. 
 
-📧 If you're looking to get in touch, you can contact me at simalik@ucsc.edu, or through my site, https://shanayamalik.github.io/portfolio/.
+📧 If you're looking to get in touch, you can contact me at simalik@ucsc.edu, or through my site, https://www.shanaya.ai
 
 <!---
 shanayamalik/shanayamalik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
