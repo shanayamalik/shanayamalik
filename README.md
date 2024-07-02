@@ -8,4 +8,4 @@
 
 🧘‍♀️ In my free time, I like to go hiking, meditate, and discover new milk tea places. 
 
-📧 If you're looking to get in touch, you can contact me through my site, https://www.shanaya.ai
+📧 If you're looking to get in touch, you can contact me through my site, https://www.shanaya.ai.
