@@ -8,6 +8,6 @@
 
 🖥️ I’m working on my project, https://www.applyto.jobs, a web-app that uses LLMs to tailor a resume and cover letter for each job.
 
-🧘‍♀️ In my free time, I like hiking in nature, painting, and reading. 
+🧘‍♀️ In my free time, I like hiking, painting, and reading. 
 
 📧 If you're looking to get in touch, you can contact me through my site, https://www.shanaya.ai
