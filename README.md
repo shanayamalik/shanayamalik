@@ -2,7 +2,7 @@
 
 👩‍🎓 I'm majoring in Computer Science at the University of California, Santa Cruz. 
 
-🖥️ I’m a Software Engineering Intern at Medtronic, where I'm working on simulating blood glucose calibration in the continuous glucose monitoring (CGM) sensor. 
+🖥️ My prior experience includes a Software Engineering Internship at Medtronic, an Artificial Intelligence Internship at Secomind, and a Machine Learning Research Internship at San Jose State University. 
 
 ⏳ I've volunteered 1675+ hours, earning awards from President Biden and the California State Assembly. 
 
