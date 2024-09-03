@@ -1,4 +1,4 @@
-👋 Hi, I’m @shanayamalik!
+#👋 Hi, I’m @shanayamalik!
 
 👩‍🎓 I'm majoring in Computer Science at the University of California, Santa Cruz. 
 
