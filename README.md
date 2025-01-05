@@ -1,3 +1,4 @@
+###
 👋 Hi, I’m @shanayamalik!
 
 👩‍🎓 I'm pursuing a B.S in Computer Science at the University of California, Santa Cruz. 
@@ -7,3 +8,4 @@
 ⏳ I've volunteered 1675+ hours, earning awards from President Biden and the California State Assembly. 
 
 🧘‍♀️ In my free time, I like to go hiking, meditate, and try new boba places. 
+###
