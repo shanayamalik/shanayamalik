@@ -1,6 +1,4 @@
-🎓 Hi, I'm @shanayamalik! I recently completed my Bachelor's in Computer Science at the University of California, Santa Cruz. 
-
-📚 I'm pursuing my Master's in Electrical Eng & Comp Sci at the University of California, Berkeley. 
+🎓 Hi, I'm @shanayamalik! I'm pursuing my Master's in Electrical Eng & Comp Sci at the University of California, Berkeley. 
 
 💻 I'm currently a Software Solutions Engineering Intern at Keysight Technologies. 
 
