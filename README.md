@@ -2,4 +2,4 @@
 
 🐢 In my spare time, you can find me hiking, trying different coffee places, or hanging out with my pet tortoises. 
 
-✉️ If you'd like to reach out, please feel free to reach out via my portfolio. Thank you for visiting!
+✉️ If you'd like to reach out, please feel free to reach out via my portfolio. 
